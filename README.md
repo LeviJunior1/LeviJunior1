@@ -1,4 +1,14 @@
-### Hi there 👋
+## Olá, me chamo Levi Junior! 
+
+
+ 
+## Hello, Devs :sunglasses:
+Tenho 24 anos, atualmente moro em Curitiba/PR e curto violão e viajar! Já trabalho a 3 anos com desenvolvimento de software
+mas estudo desde os 16 anos quando eu conheci a Linguagem C :neckbeard:! Atualmente trabalho com NuxtJS.
+          
+          
+
+
 
 <!--
 **LeviJunior1/LeviJunior1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
