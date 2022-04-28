@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=24292F&center=true&width=300&lines=Ol%C3%A1%2C+me+chamo+Levi+Junior!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=24292F&center=true&width=400&lines=Ol%C3%A1%2C+me+chamo+Levi+Junior!)](https://git.io/typing-svg)
 <p>
- Tenho 24 anos, atualmente moro em Curitiba/PR e curto programar, violão e viajar! Tenho mais 3 de anos experiência com desenvolvimento de software
- mas estudo desde os 16 anos quando eu conheci a Linguagem C :neckbeard:... Atualmente trabalho com NuxtJS!!
+ Tenho 24 anos, atualmente moro em Curitiba/PR e curto programar, violão e viajar! Tenho 3 anos de experiência com desenvolvimento de software
+ mas estudo desde os 16 anos quando eu conheci a Linguagem C :neckbeard:... Atualmente trabalho com NuxtJS!
 </p>
 <img align="left" width="20%" src="https://github.com/LeviJunior1/LeviJunior1/blob/main/image-3.JPG" />        
 <img align="right" width="20%" src="https://github.com/LeviJunior1/LeviJunior1/blob/main/image-2.JPG" />
