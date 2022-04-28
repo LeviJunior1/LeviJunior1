@@ -4,7 +4,7 @@
  mas estudo desde os 16 anos quando eu conheci a Linguagem C :neckbeard:... Atualmente trabalho com NuxtJS!!
 </p>
 <img align="left" width="20%" src="https://github.com/LeviJunior1/LeviJunior1/blob/main/image-3.JPG" />        
-<img align="right" width="200" src="https://github.com/LeviJunior1/LeviJunior1/blob/main/image-2.JPG" />
+<img align="right" width="20%" src="https://github.com/LeviJunior1/LeviJunior1/blob/main/image-2.JPG" />
 
 <br/>
 
