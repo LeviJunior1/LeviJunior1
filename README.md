@@ -1,3 +1,5 @@
+<p align="right" width="250px"><p>
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=24292F&center=true&width=300&lines=Ol%C3%A1%2C+me+chamo+Levi+Junior!)](https://git.io/typing-svg)
 <p>
  Tenho 24 anos, atualmente moro em Curitiba/PR e curto programar, violão e viajar! Tenho mais 3 de anos experiência com desenvolvimento de software
