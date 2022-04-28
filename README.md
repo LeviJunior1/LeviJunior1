@@ -18,12 +18,13 @@
 
 <br/><br/><br/><br/><br/><br/>
 
-<hr>
-<div align="center">
+##
+<p align="center">
 <a href="https://github.com/LeviJunior1">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviJunior1&layout=compact&langs_count=7&theme=swift"/>
+<img width="40%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviJunior1&layout=compact&langs_count=7&theme=swift"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LeviJunior1&show_icons=true&theme=swift&include_all_commits=true&count_private=true"/>
-</div>
+</a>
+</p>
 
 <!--
  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
