@@ -1,6 +1,6 @@
 # Hi :wave:, I am Levi
 
-I am Front End Developer. Musician Lover. Programming is not about bits is my art :art:
+I am Front End Developer. Musician Lover. The knowlegde is a :old_key:
 
 I am work at <a href="https://invillia.com/global-growth-framework/">Invillia</a>
 
@@ -10,7 +10,7 @@ I'm learning at the moment <strong>Unity</strong>.
  <a href = "mailto:contato@levijjunior55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.youtube.com/channel/UCQ2G26Bg2To_jMGmc1q67wg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
-## Technologies & Tools
+## Technologies & Tools :hammer_and_wrench:
 <a href="#">
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40"/>
