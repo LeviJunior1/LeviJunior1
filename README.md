@@ -4,7 +4,7 @@ I am Front End Developer. Musician Lover. The knowlegde is a :old_key:
 
 I am work at <a href="https://invillia.com/global-growth-framework/">Invillia</a>
 
-I'm learning at the moment <strong>Unity</strong>.
+I'm learning at the moment <strong>NodeJS</strong>.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/levi-junior-130719130/)
  <a href = "mailto:contato@levijjunior55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
