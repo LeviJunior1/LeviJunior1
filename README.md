@@ -32,6 +32,8 @@ I'm learning at the moment <strong>NodeJS</strong>.
  <img height="150em" src="https://github-readme-stats-six-taupe.vercel.app/api?username=LeviJunior1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </a>
 
+![Snake animation](https://github.com/LeviJunior1/LeviJunior1/blob/output/github-contribution-grid-snake.svg)
+
 <!--
  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=24292F&center=true&width=400&lines=Ol%C3%A1%2C+me+chamo+Levi+Junior!)](https://git.io/typing-svg)
