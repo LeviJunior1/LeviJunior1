@@ -8,7 +8,7 @@ I'm learning at the moment <strong>NodeJS</strong>.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/levi-junior-130719130/)
  <a href = "mailto:levijjunior55@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<!-- <a href="https://www.youtube.com/channel/UCQ2G26Bg2To_jMGmc1q67wg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a> -->
+<a href="https://www.youtube.com/channel/UCQ2G26Bg2To_jMGmc1q67wg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 
 ## Technologies & Tools :hammer_and_wrench:
 <a href="#">
