@@ -1,6 +1,6 @@
-# Hi :wave:, I am Levi
+# Hi, I am Levi :wave:
 
-I am Front End Developer. Musician Lover. Knowlegde is the :old_key:
+I am Front End Developer.Musician Lover. Knowlegde is the :old_key:
 
 <!-- I am work at <a href=""></a> -->
 
@@ -32,7 +32,7 @@ I'm learning at the moment <strong>NodeJS</strong>.
  <img height="150em" src="https://github-readme-stats-six-taupe.vercel.app/api?username=LeviJunior1&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
 </a>
 
-![Snake animation](https://github.com/LeviJunior1/LeviJunior1/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/LeviJunior1/LeviJunior1/blob/output/github-contribution-grid-snake.svg) -->
 
 <!--
  <a href="https://www.twitch.tv/seu-usuário-aqui" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
