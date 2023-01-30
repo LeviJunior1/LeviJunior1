@@ -4,7 +4,7 @@ I am Front End Developer.Musician Lover. Knowlegde is the :old_key:
 
 <!-- I am work at <a href=""></a> -->
 
-I'm learning at the moment <strong>NodeJS</strong>.
+I'm learning at the moment <strong>Flutter</strong>.
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/levi-junior-130719130/)
 <a href="https://www.youtube.com/channel/UCQ2G26Bg2To_jMGmc1q67wg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
