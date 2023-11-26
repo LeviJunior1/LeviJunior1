@@ -11,15 +11,6 @@ I'm learning at the moment <strong>Flutter</strong>.
 
 <!-- <a href = ""><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> -->
 
-## Technologies & Tools :hammer_and_wrench:
-<a href="#">
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://icongr.am/devicon/html5-original.svg?size=128&color=currentColor" width="40" height="40"/>
- <img src="https://icongr.am/devicon/css3-original.svg?size=128&color=currentColor" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
-</a>
-
 ## Github Stats
 <!--
  https://github-readme-stats-levijunior1.vercel.app/
